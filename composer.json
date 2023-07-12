@@ -1,0 +1,17 @@
+{
+    "name": "amplimed/insert-multiple",
+    "description": "A simple PHP package, to insert multiple records into a MySQL/MariaDB database.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [{
+        "name": "Amplimed",
+        "email": "amplimed@amplimed.com.br"
+    }],
+    "autoload": {
+        "psr-4": {
+            "insert_multiple\\": "src/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
